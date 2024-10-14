@@ -1,0 +1,9 @@
+/myenv
+/__pycache__
+/yolo11n.pt
+/yolov8n.pt
+/detected_images
+/detected_videos
+/output_results
+/mobile_sam.pt
+/sam2_b.pt
